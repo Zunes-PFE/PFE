@@ -1,0 +1,1 @@
+extern const code char TestCuteFace[1024];
